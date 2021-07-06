@@ -16,3 +16,18 @@ for i in range(len(a3)):
         a2[i-len(a1)] = a3[i] #rest in a2
 print(a1)
 print(a2)
+
+#Method 2 : Using Insertion based sortng
+
+a1 = [1,4,7,8,10]
+a2 = [2,3,9]
+
+for i in range(len(a1)):
+    if a2[0]<a1[i]:
+        a2[0],a1[i]=a1[i],a2[0]
+        a2.sort()
+    else:
+        continue
+
+print(a1)
+print(a2)
