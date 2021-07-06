@@ -7,4 +7,5 @@
 3. [Merge two sorted array](https://github.com/honeykpatel/DSA-Notes/blob/main/Arrays/Problem3.py "Problem-3")
 4. [Maximum Subarray Sum| Kadane's Algo](https://github.com/honeykpatel/DSA-Notes/blob/main/Arrays/Problem4.py "Problem-4")
 5. [Merge Overlapping Intervals](https://github.com/honeykpatel/DSA-Notes/blob/main/Arrays/Problem5.py "Problem-5")
+6. [Find the duplicate number](https://github.com/honeykpatel/DSA-Notes/blob/main/Arrays/Problem6.py "Problem-6")
 
