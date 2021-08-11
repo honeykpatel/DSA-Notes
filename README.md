@@ -8,4 +8,5 @@
 4. [Maximum Subarray Sum| Kadane's Algo](https://github.com/honeykpatel/DSA-Notes/blob/main/Arrays/Problem4.py "Problem-4")
 5. [Merge Overlapping Intervals](https://github.com/honeykpatel/DSA-Notes/blob/main/Arrays/Problem5.py "Problem-5")
 6. [Find the duplicate number](https://github.com/honeykpatel/DSA-Notes/blob/main/Arrays/Problem6.py "Problem-6")
+7. [Pascal's Trangle](https://github.com/honeykpatel/DSA-Notes/blob/main/Arrays/Problem7.py "Problem-7")
 
